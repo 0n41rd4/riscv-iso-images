@@ -1,0 +1,7 @@
+u-boot-sifive.deb
+u-boot-sifive/
+grub-efi-riscv64-unsigned.deb
+grub-efi-riscv64-unsigned/
+plucky_riscv.iso
+plucky-live-server-riscv64.img
+plucky-live-server-riscv64.img.gz
